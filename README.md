@@ -31,9 +31,13 @@ EXAMPLE:
 
 🎬 Custom Mode: Enter your movie details below:
 Enter movie title: A Known Stranger
+
 Enter budget (in USD): 10000000
+
 Enter runtime (in minutes): 120
+
 Enter IMDb rating (0-10): 7
+
 Paste movie script or summary:
 two best friends became lovers
 
